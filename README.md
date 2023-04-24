@@ -2,7 +2,7 @@
 
 ## About
 
-This is the official website for the Manipal OSF organisation.
+This is the official website for UpEase (Contributory source code from Manipal OSF)
 
 ## Contributing
 
